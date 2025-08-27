@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://savorsstories.com/sitemap.xml
